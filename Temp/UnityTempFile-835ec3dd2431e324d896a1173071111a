@@ -1,0 +1,192 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp-Editor.dll
+-r:"E:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"E:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:Library/ScriptAssemblies/Assembly-CSharp.dll
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll"
+-r:"Assets/Photon Unity Networking/Editor/PhotonNetwork/Newtonsoft.Json.dll"
+-r:Assets/PlayMaker/Editor/PlayMakerEditor.dll
+-r:Assets/PlayMaker/Editor/PlayMakerEditorResources.dll
+-r:Assets/PlayMaker/Editor/de/PlayMakerEditor.de.resources.dll
+-r:Assets/PlayMaker/Editor/es-ES/PlayMakerEditor.es-ES.resources.dll
+-r:Assets/PlayMaker/Editor/fr/PlayMakerEditor.fr.resources.dll
+-r:Assets/PlayMaker/Editor/it/PlayMakerEditor.it.resources.dll
+-r:Assets/PlayMaker/Editor/ja/PlayMakerEditor.ja.resources.dll
+-r:Assets/PlayMaker/Editor/nl/PlayMakerEditor.nl.resources.dll
+-r:Assets/PlayMaker/Editor/pt-BR/PlayMakerEditor.pt-BR.resources.dll
+-r:Assets/PlayMaker/Editor/sv-SE/PlayMakerEditor.sv-SE.resources.dll
+-r:Assets/PlayMaker/Editor/zh-CN/PlayMakerEditor.zh-CN.resources.dll
+-r:Assets/PlayMaker/Editor/zh-TW/PlayMakerEditor.zh-TW.resources.dll
+-r:Assets/Plugins/Photon3Unity3D.dll
+-r:Assets/Plugins/PlayMaker/PlayMaker.dll
+-r:Assets/Plugins/WebSocket/websocket-sharp.dll
+-r:"E:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-r:"E:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
+-r:"C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll"
+-r:"E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-define:UNITY_5_3_3
+-define:UNITY_5_3
+-define:UNITY_5
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_SPRITE_POLYGON
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:INCLUDE_DIRECTX12
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION
+-define:ENABLE_EDITOR_TESTS_RUNNER
+-define:UNITY_WEBPLAYER
+-define:ENABLE_SUBSTANCE
+-define:WEBPLUG
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+"Assets/Photon Unity Networking/Demos/DemoHub/Editor/PunStartup.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/AccountService.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonConverter.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonEditor.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonGUI.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonViewHandler.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonViewInspector.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/PhotonViewPrefabApply.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/PunSceneSettings.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/ReorderableListResources.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/ServerSettingsInspector.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/Views/PhotonAnimatorViewEditor.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/Views/PhotonRigidbody2DViewEditor.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/Views/PhotonRigidbodyViewEditor.cs"
+"Assets/Photon Unity Networking/Editor/PhotonNetwork/Views/PhotonTransformViewEditor.cs"
+"Assets/PlayMaker PUN/Editor/PlayMakerPhotonEditorUtility.cs"
+"Assets/PlayMaker PUN/Editor/PlayMakerPhotonGameObjectProxyEditor.cs"
+"Assets/PlayMaker PUN/Editor/PlayMakerPhotonWizard.cs"
+"Assets/PlayMaker Utils/Components/Editor/CommentInspector.cs"
+"Assets/PlayMaker Utils/Editor/PlayMakerEditorUtils.cs"
+"Assets/PlayMaker Utils/Editor/PlayMakerInspectorUtils.cs"
+"Assets/PlayMaker Utils/Editor/PlayMakerInspectorUtils_Events.cs"
+"Assets/PlayMaker Utils/Editor/PlayMakerInspectorUtils_Reflection.cs"
+"Assets/PlayMaker Utils/Editor/PlayMakerInspectorUtils_Variables.cs"
+"Assets/PlayMaker Utils/Editor/PlayMakerStats.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/ButtonAttribute/Editor/ButtonDrawer.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/Editor/PlayMakerPropertyDrawerBaseClass.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/Owner/Editor/OwnerPropertyDrawer.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/PlayMakerEvent/Editor/PlayMakerEventPropertyDrawer.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/PlayMakerEventTarget/Editor/PlayMakerEventTargetPropertyDrawer.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/PlayMakerFsmTarget/Editor/PlayMakerFsmTargetPropertyDrawer.cs"
+"Assets/PlayMaker Utils/Wizards/LinkerWizard/Editor/LinkerDataCustomInspector.cs"
+"Assets/PlayMaker Utils/Wizards/PlayMakerEventProxy/Editor/EventProxyFileFinder.cs"
+"Assets/PlayMaker Utils/Wizards/PlayMakerEventProxy/Editor/PlayMakerEventProxyCreator.cs"
+"Assets/PlayMaker Utils/Wizards/PlayMakerEventProxy/Editor/PlayMakerEventProxyCreatorWizard.cs"
+"Assets/PlayMaker uGui/Editor/PlayMakerUGuiCanvasRaycastFilterEventsProxyInspector.cs"
+"Assets/PlayMaker uGui/Editor/PlayMakerUGuiComponentProxyInspector.cs"
+"Assets/PlayMaker uGui/Editor/PlayMakerUGuiDragEventsProxyInspector.cs"
+"Assets/PlayMaker uGui/Editor/PlayMakerUGuiDropEventsProxyInspector.cs"
+"Assets/PlayMaker uGui/Editor/PlayMakerUGuiPointerEventsProxyInspector.cs"
+Assets/PlayMaker/Actions/Editor/LookAtActionEditor.cs
+Assets/PlayMaker/Actions/Editor/MoveTowardsActionEditor.cs
+Assets/PlayMaker/Actions/Editor/SetCameraFOVActionEditor.cs
+Assets/PlayMaker/Editor/AboutWindow.cs
+Assets/PlayMaker/Editor/ContextToolWindow.cs
+Assets/PlayMaker/Editor/FsmActionWindow.cs
+Assets/PlayMaker/Editor/FsmComponentInspector.cs
+Assets/PlayMaker/Editor/FsmEditorHelpers.cs
+Assets/PlayMaker/Editor/FsmEditorWindow.cs
+Assets/PlayMaker/Editor/FsmErrorWindow.cs
+Assets/PlayMaker/Editor/FsmEventsWindow.cs
+Assets/PlayMaker/Editor/FsmGlobalsWindow.cs
+Assets/PlayMaker/Editor/FsmLogWindow.cs
+Assets/PlayMaker/Editor/FsmSelectorWindow.cs
+Assets/PlayMaker/Editor/FsmStateWindow.cs
+Assets/PlayMaker/Editor/FsmTemplate.cs
+Assets/PlayMaker/Editor/FsmTemplateEditor.cs
+Assets/PlayMaker/Editor/FsmTemplateWindow.cs
+Assets/PlayMaker/Editor/PlayMakerAutoUpdater.cs
+Assets/PlayMaker/Editor/PlayMakerBugReportWindow.cs
+Assets/PlayMaker/Editor/PlayMakerCustomActionWizard.cs
+Assets/PlayMaker/Editor/PlayMakerGUIInspector.cs
+Assets/PlayMaker/Editor/PlayMakerGlobalsInspector.cs
+Assets/PlayMaker/Editor/PlayMakerMainMenu.cs
+Assets/PlayMaker/Editor/PlayMakerUpgradeGuide.cs
+Assets/PlayMaker/Editor/PlayMakerWelcomeWindow.cs
+Assets/PlayMaker/Editor/ReportWindow.cs
+Assets/iTween/PlayMaker/Editor/iTweenMoveToActionEditor.cs
+Assets/net.fabrejean/Editor/Common/Utils.cs
+Assets/net.fabrejean/Editor/Common/VersionInfo.cs
+Assets/net.fabrejean/Editor/MarkDownSharp/Escapes.cs
+Assets/net.fabrejean/Editor/MarkDownSharp/MarkDownFileInspector.cs
+Assets/net.fabrejean/Editor/MarkDownSharp/MarkdownGUI.cs
+Assets/net.fabrejean/Editor/MarkDownSharp/MarkdownParser.cs
+Assets/net.fabrejean/Editor/MarkDownSharp/ObjectInspector.cs
+Assets/net.fabrejean/Editor/PlayMaker/Ecosystem/Classes/EcosystemUtils.cs
+Assets/net.fabrejean/Editor/PlayMaker/Ecosystem/Classes/Item.cs
+Assets/net.fabrejean/Editor/PlayMaker/Ecosystem/Classes/ItemDocumentation.cs
+Assets/net.fabrejean/Editor/PlayMaker/Ecosystem/EcosystemBrowser.cs
+Assets/net.fabrejean/Editor/PlayMaker/Ecosystem/Tools/ProjectScanner/ProjectScanner.cs
+Assets/net.fabrejean/Editor/Plugins/EditorCoroutine.cs
+Assets/net.fabrejean/Editor/Plugins/HttpWrapper.cs
+Assets/net.fabrejean/Editor/Plugins/JSON.cs
+-r:"E:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Runtime.Serialization.dll"
+-r:"E:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll"
